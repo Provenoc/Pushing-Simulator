@@ -1,0 +1,14 @@
+Patch Notes Version 1.0
+
+* Fixed bug that caused player to respawn on death (Lava Grinder)
+* Fixed animations playing weirdly when doing certain actions
+* Fixed a bug from the Ragdoll Handler that would break your character when you respawned or joined
+* Reduced lag spikes during pushing a player or getting close to a ragdolled player
+* Fixed the map's not showing on the Voting UI
+* Disabled Shiftlock for game breaking issues
+* Fixed lag from pressing Q to grab a ragdolled player
+* Fixed certain Security issues from exploiters
+* Fixed a bug where you fell off a map you would not respawn
+* Dropkicking now only goes to one direction
+* Disabled gears from lagging the game & abusing it
+* Fixed bug where ragdoll would work on a certain avatar
